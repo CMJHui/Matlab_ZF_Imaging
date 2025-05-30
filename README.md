@@ -4,9 +4,9 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 This repository contains a suite of original image and video analysis scripts developed by **Dr. Jessica C. M. Hui** during her postdoctoral fellowship in biomedical research. The scripts were written to support motion tracking, peristaltic wave quantification, and other physiological imaging metrics in zebrafish and similar models.
 
-## 🧪 Description
+## Description
 
-These tools were independently conceptualized and implemented to address challenges in high-throughput, imaging-based analysis of live animal models. Functions include:
+These tools were independently conceptualised and implemented to address challenges in high-throughput, imaging-based analysis of live animal models. Functions include:
 
 - Time-series motion extraction
 - Contraction frequency and amplitude detection
@@ -29,7 +29,7 @@ Redistribution in any form must retain this authorship notice.
 
 ## Suggested Citation
 
-Hui, J.C.M. (2025). *Imaging Analysis Scripts for Quantitative Zebrafish Data* [Software]. GitHub repository: [GitHub repo link]
+Hui, J.C.M. (2025). *Imaging Analysis Scripts for Quantitative Zebrafish Data* [Software]. GitHub repository: [https://github.com/CMJHui/Matlab_ZF_Imaging.git]
 
 ## Feedback & Collaboration
 
