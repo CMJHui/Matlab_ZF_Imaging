@@ -29,7 +29,7 @@ Redistribution in any form must retain this authorship notice.
 
 ## Suggested Citation
 
-Hui, J.C.M. (2025). *Imaging Analysis Scripts for Quantitative Zebrafish Data* [Software]. GitHub repository: [https://github.com/CMJHui/Matlab_ZF_Imaging.git]
+Hui, J.C.M. (2025). *Imaging Analysis Scripts for Quantitative Zebrafish Imaging Data* [Software]. GitHub repository: [https://github.com/CMJHui/Matlab_ZF_Imaging.git]
 
 ## Feedback & Collaboration
 
