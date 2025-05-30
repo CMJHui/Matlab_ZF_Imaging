@@ -18,7 +18,7 @@ All sample data and videos included in or referenced by this repository were col
 
 **Jessica C. M. Hui, PhD**  
 Biomedical Scientist | Imaging & Physiology | Zebrafish Models  
-📧 Email: cmjessicahui@link.cuhk.edu.hk  
+Email: cmjessicahui@link.cuhk.edu.hk  
 
 Please cite this repository or contact the author when using these tools in academic or research work.
 
