@@ -1,4 +1,7 @@
 # Imaging Analysis Scripts for Quantitative Zebrafish Data
+% Developed by Dr. Jessica C. M. Hui during her research at
+% The Chinese University of Hong Kong and The University of Hong Kong.
+% Sample data used with this script was collected at The Chinese University of Hong Kong.
 
 This repository contains a suite of original image and video analysis scripts developed by **Dr. Jessica C. M. Hui** during her doctoral and postdoctoral fellowship in biomedical research. These MATLAB-based tools support motion tracking, peristaltic wave quantification, and other physiological imaging analyses in zebrafish and similar live animal models.
 
